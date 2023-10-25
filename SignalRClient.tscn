@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://chxm0ue20e6p5"]
+
+[ext_resource type="Script" path="res://SignalR.gd" id="1_w1tlf"]
+
+[node name="Node" type="Node"]
+script = ExtResource("1_w1tlf")
